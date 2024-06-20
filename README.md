@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You will need to add your own API_KEY which you have created only then it will work.
 
 ## Available Scripts
 
